@@ -1,3 +1,3 @@
 # Pomodoro simples feito em typescript react
 
-veja o projeto aqui: [pomodoroana.netlify.app](pomodoroana.netlify.app)
+veja o projeto aqui: [pomodoro.netlify.app](https://pomodoroana.netlify.app/)
